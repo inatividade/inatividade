@@ -1,10 +1,9 @@
-# Me
+# Eu
 
-- 
-- 
-- 
-- 
-- 
+- Oi, meu nome é Rafael;
+- Atualmente estou aprendendo as linguagens de programação Scratch e Javascript;
+- Email de contato: rafael.rodrigues.pereira@escola.pr.gov.br;
+- perfil generico sem personalidade
 
 <!---
 inatividade/inatividade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
