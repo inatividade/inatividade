@@ -1,7 +1,7 @@
 # Eu
 
 - Oi, meu nome é Rafael;
-- Atualmente estou aprendendo as linguagens de programação Scratch e Javascript;
+- Atualmente estou aprendendo as linguagens de programação 13923;
 - Email de contato: rafael.rodrigues.pereira@escola.pr.gov.br
 
 <!---
